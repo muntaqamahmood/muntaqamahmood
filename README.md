@@ -2,7 +2,7 @@
 
 ## I'm a Student, Engineer, Tech Lover!
 
-- 🌱 I’m currently a 2nd year CS Undergrad at  @ University of Toronto
+- 🌱 I’m currently a 2nd year CS Undergrad @ University of Toronto
 - 👯 I’m looking to collaborate with other content creators, so feel free to hmu :)
 - 🥅 2022 Goals: Learn and develop my software engineering skills
 - ⚡ Fun fact: I love to workout, and play games!
