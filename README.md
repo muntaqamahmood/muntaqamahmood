@@ -3,7 +3,7 @@
 ## I'm a Student, Engineer, Tech Lover!
 
 - 🌱 I’m currently a 2nd year CS Undergrad @ University of Toronto
-- 👯 I’m looking to collaborate with other content creators, so feel free to hmu :)
+- 👯 Looking to collaborate with other content creators, so feel free to hmu :)
 - 🥅 2022 Goals: Learn and develop my software engineering skills
 - ⚡ Fun fact: I love to workout, and play games!
 - 🔭 Take a look at my past projects: [Repository][projects]
@@ -34,12 +34,7 @@
 <br />
 <br />
 
-![Muntaqa's GitHub stats](https://github-readme-stats.vercel.app/api?username=muntaqamahmood&theme=shades-of-purple&show_icons=true)
-
-<!--<img align="left" alt="muntaqamahmood's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muntaqamahmood&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />-->
-
-
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muntaqamahmood&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)-->
+![Muntaqa's GitHub stats](https://github-readme-stats.vercel.app/api?username=muntaqamahmood&theme=yeblu&show_icons=true)
 
 [projects]: https://github.com/muntaqamahmood?tab=repositories
 [personalwebsite]: https://muntaqamahmood.github.io/myPortfolio.cv/generic.html
