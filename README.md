@@ -2,7 +2,8 @@
 
 ## I'm a Student, Engineer, Tech Lover!
 
-- 🌱 I’m currently a 2nd year CS Undergrad @ University of Toronto
+- 💼 Software Engineer intern @ Amdocs Canada
+- 🌱 Second year Co-op CS Undergrad @ University of Toronto, specializing in Software Engineering.
 - 👯 Looking to collaborate with other content creators, so feel free to hmu :)
 - 🥅 2022 Goals: Learn and develop my software engineering skills
 - ⚡ Fun fact: I love to workout, and play games!
