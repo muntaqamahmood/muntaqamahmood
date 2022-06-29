@@ -9,7 +9,7 @@
 
 - 💼 Software Engineer intern @ Amdocs Canada
 - 🌱 Second year Co-op CS Undergrad @ University of Toronto, specializing in Software Engineering.
-- 👯 Looking to collaborate with other content creators, so feel free to hmu :)
+- 👯 Looking to collaborate with other developers, so feel free to hmu :)
 - 🥅 2022 Goals: Learn and develop my software engineering skills
 - ⚡ Fun fact: I love to workout, and play games!
 - 🔭 Take a look at my past projects: [Repository][projects]
