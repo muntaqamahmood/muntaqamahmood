@@ -7,11 +7,9 @@
 </p>
 
 - 🌱 Second year Co-op CS Undergrad @ University of Toronto, specializing in Software Engineering.
-- 👯 Looking to collaborate with other developers, so feel free to hmu :)
 - 🥅 2022 Goals: Learn and develop my software engineering skills
-- ⚡ Fun fact: I love to workout, and play games!
 - 🔭 Take a look at my past projects: [Repository][projects]
-<!-- - 😻 Check out my Portfolio: [muntaqamahmood.ca][personalwebsite] -->
+- 😻 Check out my Work Term Portfolio: [muntaqamahmood.ca][personalwebsite]
 
 ### Connect with me:
 
