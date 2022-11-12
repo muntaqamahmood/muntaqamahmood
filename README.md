@@ -5,12 +5,10 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Engineer;Interested+in+Full-Stack+Development;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-
 <!-- - 🌱 Second year Co-op CS Undergrad @ University of Toronto, specializing in Software Engineering.
 - 🥅 2022 Goals: Learn and develop my software engineering skills
 - 🔭 Take a look at my past projects: [Repository][projects]
 - 😻 Check out my Work Term Portfolio: [muntaqamahmood.ca][personalwebsite] -->
-
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](mailto:muntaqa.mahmood@mail.utoronto.ca#gh-light-mode-only)
