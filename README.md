@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Muntaqa! 
+# 👋 Hi there, welcome to my profile! I am
 
 <!-- ## I'm a Student, Engineer, Tech Lover! -->
 
