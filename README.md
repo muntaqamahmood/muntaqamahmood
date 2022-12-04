@@ -1,4 +1,4 @@
-# 👋 Hi there, welcome to my profile! I'm
+# 👋 Hi there, welcome to my profile! I'm a
 
 <!-- ## I'm a Student, Engineer, Tech Lover! -->
 
