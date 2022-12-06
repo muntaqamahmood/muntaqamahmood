@@ -39,8 +39,8 @@
 <br />
 <br />
 
-![Muntaqa's GitHub stats](https://github-readme-stats.vercel.app/api?username=muntaqamahmood&theme=yeblu&show_icons=true)
 ![Muntaqa's Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muntaqamahmood&theme=yeblu&show_icons=true)
+![Muntaqa's GitHub stats](https://github-readme-stats.vercel.app/api?username=muntaqamahmood&theme=yeblu&show_icons=true)
 
 [projects]: https://github.com/muntaqamahmood?tab=repositories
 [personalwebsite]: https://muntaqamahmood.github.io/myPortfolio.cv/generic.html
