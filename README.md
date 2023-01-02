@@ -41,6 +41,8 @@
 
 ![Muntaqa's Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muntaqamahmood&theme=yeblu&show_icons=true)
 ![Muntaqa's GitHub stats](https://github-readme-stats.vercel.app/api?username=muntaqamahmood&theme=yeblu&show_icons=true)
+<br />
+![Visitors](https://komarev.com/ghpvc/?username=muntaqamahmood&color=blueviolet)
 
 [projects]: https://github.com/muntaqamahmood?tab=repositories
 [personalwebsite]: https://muntaqamahmood.github.io/myPortfolio.cv/generic.html
