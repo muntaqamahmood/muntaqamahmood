@@ -53,5 +53,5 @@ I'm Muntaqa Mahmood
 ![Visitors](https://komarev.com/ghpvc/?username=muntaqamahmood&color=blueviolet)
 
 [projects]: https://github.com/muntaqamahmood?tab=repositories
-[personalwebsite]: https://muntaqamahmood.github.io/myPortfolio.cv/generic.html](https://muntaqamahmood.github.io/Work-Term-Portfolio/
+[personalwebsite]: https://muntaqamahmood.github.io/Work-Term-Portfolio/
 [linkedin]: https://www.linkedin.com/in/muntaqa-mahmood-487441206
