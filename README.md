@@ -35,12 +35,12 @@ I'm Muntaqa Mahmood
 <br />
 
 #### Currently Learning / Using:
-<img align="left" alt="Haskell" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C Sharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="dotnet" width="26px" src="https://cdn.iconscout.com/icon/free/png-128/dot-net-3521393-2944837.png" style="padding-right:10px;" />
 <img align="left" alt="Angular.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Haskell" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
