@@ -4,9 +4,9 @@ I'm Muntaqa Mahmood
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Engineer;Interested+in+Full-Stack+Development;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p> -->
 - Undergrad at University of Toronto, specializing in Software Engineering.
-- 2022 Goals: Learn and develop my software engineering skills
+- checkout my Portfolio! [muntaqamahmood.vercel.app][personal-website]
 - Take a look at my past projects: [Repository][projects]
-- Check out my Work Term Portfolio: [muntaqamahmood.ca][personalwebsite]
+- Check out my Work Term Portfolio: [work-term-website]
 
 ### Connect with me:
 [![website](./img/globe-light.svg)](mailto:muntaqa.mahmood@mail.utoronto.ca#gh-light-mode-only)
@@ -49,5 +49,6 @@ I'm Muntaqa Mahmood
 <!-- ![Visitors](https://komarev.com/ghpvc/?username=muntaqamahmood&color=blueviolet) />-->
 
 [projects]: https://github.com/muntaqamahmood?tab=repositories
-[personalwebsite]: https://muntaqamahmood.github.io/Work-Term-Portfolio/amdocs.html
+[work-term-website]: https://muntaqamahmood.github.io/Work-Term-Portfolio/amdocs.html
+[personal-website]: https://muntaqamahmood.vercel.app/
 [linkedin]: https://www.linkedin.com/in/muntaqa-mahmood-487441206
