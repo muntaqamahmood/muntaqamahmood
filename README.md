@@ -5,7 +5,7 @@ I'm Muntaqa Mahmood
 </p> -->
 - final year Undergrad at University of Toronto, specializing in Software Engineering.
 - My e-Portfolio! [muntaqamahmood.vercel.app][personal-website]
-- My Work Experiences so far... [work-term-website]
+- My Work Experiences so far... (Outdate website, check my e-Portfolio website above for updated work exp.)[work-term-website]
 - Take a look at my past projects: [Repository][projects]
 
 ### Connect with me:
