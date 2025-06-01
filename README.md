@@ -12,8 +12,8 @@ I'm Muntaqa Mahmood
 [![website](./img/globe-light.svg)](mailto:muntaqa.mahmood@mail.utoronto.ca#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](mailto:muntaqa.mahmood@mail.utoronto.ca)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/muntaqa-mahmood-487441206#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/muntaqa-mahmood-487441206#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/muntaqamahmood/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/muntaqamahmood/)
 
 ### Languages and Tools:
 
