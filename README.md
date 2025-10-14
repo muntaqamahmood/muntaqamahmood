@@ -5,7 +5,7 @@ I'm Muntaqa Mahmood
 </p> -->
 - with an Honours Bachelors of Science (Computer Science) from University of Toronto, specialized in Software Engineering.
 - My e-Portfolio! [muntaqamahmood.vercel.app][personal-website]
-- My Work Experiences so far... (Outdate website, check my e-Portfolio website above for updated work exp.)[work-term-website]
+- My Work Experiences so far... (Outdated website, check My e-Portfolio website above for updated work exp.)[work-term-website]
 - Take a look at my past projects: [Repository][projects]
 
 ### Connect with me:
