@@ -9,8 +9,8 @@ I'm Muntaqa Mahmood
 - Take a look at my past projects: [Repository][projects]
 
 ### Connect with me:
-[![website](./img/globe-light.svg)](mailto:muntaqa.mahmood@mail.utoronto.ca#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](mailto:muntaqa.mahmood@mail.utoronto.ca)
+[![website](./img/globe-light.svg)](mailto:muntaqa15@gmail.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](mailto:muntaqa15@gmail.com)
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/muntaqamahmood/)
 
@@ -42,7 +42,7 @@ I'm Muntaqa Mahmood
 <br />
 
 ![Muntaqa's Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muntaqamahmood&theme=yeblu&show_icons=true)
-![Muntaqa's GitHub stats](https://github-readme-stats.vercel.app/api?username=muntaqamahmood&theme=yeblu&show_icons=true)
+![Muntaqa's GitHub stats](https://github-readme-stats.vercel.app/api?username=muntaqamahmood&show_icons=true)
 <br />
 
 <!-- ![Visitors](https://komarev.com/ghpvc/?username=muntaqamahmood&color=blueviolet) />-->
