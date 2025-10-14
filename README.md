@@ -41,7 +41,7 @@ I'm Muntaqa Mahmood
 <br />
 <br />
 
-![Muntaqa's Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muntaqamahmood&theme=yeblu&show_icons=true)
+![Muntaqa's Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muntaqamahmood&show_icons=true)
 ![Muntaqa's GitHub stats](https://github-readme-stats.vercel.app/api?username=muntaqamahmood&show_icons=true)
 <br />
 
